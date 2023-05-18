@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsssXVQOpKsHJ9L9+lX39sp+efQgMzIUtld6lStvz98zUYzH+kDlo0sJUa9ESKzi3+3hFQk5+xHOgbTyq+hNxw==",
+  "success": true,
+  "projectFilePath": "H:\\TseTmc\\ExportDidebanToExcel\\ExportDidebanToExcel\\ExportDidebanToExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\behnam\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
